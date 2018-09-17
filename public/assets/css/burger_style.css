@@ -1,10 +1,10 @@
 body {
-    background-color: #E6DA9F;
+    background-color: rgb(103, 202, 232);
     font-family: 'Lato', sans-serif;
 }
 
 * {
-    background-color: #FBF6C3;
+    background-color: rgb(103, 202, 232);
 }
 
 pre {
